@@ -1,3 +1,5 @@
+// Eduardo Ariza Abad y Enrique Ibáñez Rico
+
 import http from 'k6/http';
 import { sleep, check } from 'k6';
 
